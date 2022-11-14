@@ -1,4 +1,4 @@
-import "/Users/bryanna/Documents/Classes/Fall 2022/UIUX/react-studio/src/bootstrap.css";
+
 
 // TODO: create a component that displays a single bakery item
 function BakeryItem(props) {
